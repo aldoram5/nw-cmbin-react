@@ -1,3 +1,18 @@
+# How to run
+
+- Clone the repo
+- Start the backend with the instructions from the og readme
+- cd into www
+- run `npm install` to install all the dependencies
+- run `npm start`
+- a new browser tab/window will open with the site, it includes all the functionality requested.
+
+
+
+OG Readme:
+
+
+
 # Entrevista laboral
 ## Requisitos
 * Crear en una nueva carpeta el siguiente sitio web
